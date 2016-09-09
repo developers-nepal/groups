@@ -27,4 +27,3 @@ Links
 * [DN: Ruby Developers Nepal](https://www.facebook.com/groups/rubydevelopersnepal/)
 * [DN: Ruby on Rails (ROR) Developers Nepal](https://www.facebook.com/groups/nepaleserordeveloper/)
 * [DN: Symfony Developers Nepal](https://www.facebook.com/groups/symfony2nepal/)
-* 
