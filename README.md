@@ -8,6 +8,7 @@ Notes
 
 Links
 ---------
+* [DN: AR/VR Developers Nepal](https://www.facebook.com/groups/vrnepal/)
 * [DN: CodeIgniter Developers Nepal](https://www.facebook.com/groups/codeigniter.nepal/)
 * [DN: Data Hackers](https://www.facebook.com/groups/1621687984734559/)
 * [DN: DevOps Nepal](https://www.facebook.com/groups/devops.nepal/)
@@ -22,7 +23,8 @@ Links
 * [OSM Nepal](https://www.facebook.com/groups/mapkathmandu/)
 * [DN: PHP Developers Nepal](https://www.facebook.com/groups/109070762572263/)
 * [DN: Python Users Group Nepal](https://www.facebook.com/groups/pythonnepal/)
+* [Robotics Association of Nepal](https://facebook.com/groups/nepal.ran)
 * [DN: Ruby Developers Nepal](https://www.facebook.com/groups/rubydevelopersnepal/)
 * [DN: Ruby on Rails (ROR) Developers Nepal](https://www.facebook.com/groups/nepaleserordeveloper/)
 * [DN: Symfony Developers Nepal](https://www.facebook.com/groups/symfony2nepal/)
-* [DN: VR Developers Nepal](https://www.facebook.com/groups/vrnepal/)
+* 
