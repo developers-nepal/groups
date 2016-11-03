@@ -14,6 +14,7 @@ Links
 * [DN: Data Hackers](https://www.facebook.com/groups/1621687984734559/)
 * [DN: DevOps Nepal](https://www.facebook.com/groups/devops.nepal/)
 * [Dribbble Nepal](https://www.facebook.com/groups/1617837981805541/)
+* [DN: Elixir Developers Nepal](https://www.facebook.com/groups/elixir.nepal/)
 * [Facebook Developers Circle: Kathmandu](https://www.facebook.com/groups/DevCKathmandu/)
 * [Frontenders Community Nepal](https://www.facebook.com/groups/frontenderscommnunitynepal/)
 * [GDG Kathmandu](https://www.facebook.com/groups/gdgktm/)
