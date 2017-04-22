@@ -1,4 +1,4 @@
-# Developer Groups in Nepal
+# Developer Groups in Nepal [![Build Status](https://travis-ci.org/developers-nepal/groups.svg?branch=master)](https://travis-ci.org/developers-nepal/groups)
 List of active developer groups
 
 Notes
@@ -30,7 +30,7 @@ Communities
 * DN: PHP Developers Nepal - [facebook](https://www.facebook.com/groups/109070762572263/)
 * DN: Python Users Group Nepal - [facebook](https://www.facebook.com/groups/pythonnepal/) | [github](https://github.com/PythonNepal)
 * DN: React Developers Nepal - [facebook](https://www.facebook.com/groups/354877791514518/)
-* Robotics Association of Nepal - [facebook](https://facebook.com/groups/nepal.ran)
+* Robotics Association of Nepal - [facebook](https://www.facebook.com/groups/nepal.ran)
 * DN: Ruby Developers Nepal - [facebook](https://www.facebook.com/groups/rubydevelopersnepal/) | [github](https://github.com/RubyNepal)
 * DN: Ruby on Rails (ROR) Developers Nepal - [facebook](https://www.facebook.com/groups/nepaleserordeveloper/)
 * DN: Symfony Developers Nepal - [facebook](https://www.facebook.com/groups/symfony2nepal/)
@@ -39,7 +39,6 @@ Github Groups
 ---------
 * Dots Nepal - [github](https://github.com/dotnepal/)
 * DWIT Software Club - [github](https://github.com/softwareclub)
-* FOSS Pulchowk - [github](https://github.com/FossPulchowk)
 * GDG Birgunj - [github](https://github.com/gdgbirgunj)
 * HCOE Developers Circle - [github](https://github.com/hcoedevcircle)
 * Kathmandu Living Labs - [github](https://github.com/KathmanduLivingLabs) 
