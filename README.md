@@ -34,6 +34,7 @@ Communities
 * DN: Ruby Developers Nepal - [facebook](https://www.facebook.com/groups/rubydevelopersnepal/) | [github](https://github.com/RubyNepal)
 * DN: Ruby on Rails (ROR) Developers Nepal - [facebook](https://www.facebook.com/groups/nepaleserordeveloper/)
 * DN: Symfony Developers Nepal - [facebook](https://www.facebook.com/groups/symfony2nepal/)
+* DN: UI/UX Developers Nepal - [facebook](https://www.facebook.com/groups/uxdevnepal/)
 
 Github Groups
 ---------
