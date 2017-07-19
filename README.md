@@ -51,7 +51,7 @@ Github Groups
 * Open Source ASCOL Circle - [github](https://github.com/OSAC)
 * Papers We Love: Kathmandu - [github](https://github.com/papers-we-love/kathmandu)
 * Prepare Pokhara - [github](https://github.com/PreparePokhara)
-* Robotics Club WRC - [github](https://github.com/wrcrobo)
+* Robotics Club WRC - [facebook](https://www.facebook.com/wrcrobo/) | [github](https://github.com/wrcrobo)
 * Web Designers Nepal - [github](https://github.com/webdesignersnepal)
 * Wordpress Nepal - [github](https://github.com/wpnepal)
 * सिया संगठन - [github](https://github.com/SiyaOrg)
