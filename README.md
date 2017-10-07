@@ -13,6 +13,7 @@ Communities
 * DN: CodeIgniter Developers Nepal - [facebook](https://www.facebook.com/groups/codeigniter.nepal/)
 * Code for Nepal - [github](https://github.com/code4nepal)
 * DN: Data Hackers - [facebook](https://www.facebook.com/groups/1621687984734559/)
+* Developers Circle Nepal - [github](https://github.com/dev-circle-np) | [discord](https://discord.gg/bjZmgek)
 * Developers Nepal - [github](https://github.com/developers-nepal) | [slack](http://developersnepal.herokuapp.com)
 * DN: DevOps Nepal - [facebook](https://www.facebook.com/groups/devops.nepal/)
 * Dribbble Nepal - [facebook](https://www.facebook.com/groups/1617837981805541/)
