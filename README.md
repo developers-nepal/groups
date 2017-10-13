@@ -27,6 +27,7 @@ Communities
 * DN: Laravel Developers Nepal - [facebook](https://www.facebook.com/groups/laravel.nepal/)
 * Nepal Cloud User Group - [facebook](https://www.facebook.com/groups/669137383201210/)
 * DN: Node.js Nepal - [facebook](https://www.facebook.com/groups/nodejsnepal/)
+* Nepal Blockchain R&D - [discord](https://discord.gg/QcxkQZA)
 * OSM Nepal - [facebook](https://www.facebook.com/groups/mapkathmandu/)
 * DN: PHP Developers Nepal - [facebook](https://www.facebook.com/groups/109070762572263/)
 * DN: Python Users Group Nepal - [facebook](https://www.facebook.com/groups/pythonnepal/) | [github](https://github.com/PythonNepal)
