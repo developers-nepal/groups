@@ -8,6 +8,7 @@ Notes
 
 Communities
 ---------
+* Android Developers Nepal - [github](https://github.com/AndDevNepal)
 * DN: AR/VR Developers Nepal - [facebook](https://www.facebook.com/groups/vrnepal/) | [github](https://github.com/vrnepal)
 * ASP.NET Community - [facebook](https://www.facebook.com/groups/alokgo/)
 * DN: CodeIgniter Developers Nepal - [facebook](https://www.facebook.com/groups/codeigniter.nepal/)
