@@ -1,6 +1,6 @@
 language: ruby
 rvm: 2.2
 before_script: gem install awesome_bot
-script: awesome_bot README.md --white-list travis-ci,https://www.facebook.com/groups/DevCKathmandu/ --allow 302,301
+script: awesome_bot README.md --white-list www.facebook.com/groups/DevCKathmandu/,travis-ci --allow 302,301
 notifications:
   email: false
