@@ -8,6 +8,7 @@ Notes
 
 Communities
 ---------
+* DN: AI Developers Nepal - [facebook](https://www.facebook.com/groups/aidevnepal/) | [github](https://github.com/aidevnepal)
 * Android Developers Nepal - [github](https://github.com/AndDevNepal)
 * DN: AR/VR Developers Nepal - [facebook](https://www.facebook.com/groups/vrnepal/) | [github](https://github.com/vrnepal)
 * ASP.NET Community - [facebook](https://www.facebook.com/groups/alokgo/)
@@ -38,7 +39,7 @@ Communities
 * DN: Ruby on Rails (ROR) Developers Nepal - [facebook](https://www.facebook.com/groups/nepaleserordeveloper/)
 * DN: Symfony Developers Nepal - [facebook](https://www.facebook.com/groups/symfony2nepal/)
 * DN: UI/UX Developers Nepal - [facebook](https://www.facebook.com/groups/uxdevnepal/)
-* R Users Group Nepal - [facebook](https://www.facebook.com/groups/969181646600442/)
+* R User Group Nepal - [facebook](https://www.facebook.com/groups/RUGNepal/)
 
 Github Groups
 ---------
