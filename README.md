@@ -59,4 +59,3 @@ Github Groups
 * Robotics Club WRC - [facebook](https://www.facebook.com/wrcrobo/) | [github](https://github.com/wrcrobo)
 * Web Designers Nepal - [github](https://github.com/webdesignersnepal)
 * Wordpress Nepal - [github](https://github.com/wpnepal)
-* सिया संगठन - [github](https://github.com/SiyaOrg)
