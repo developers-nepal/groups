@@ -46,7 +46,6 @@ Github Groups
 * Dots Nepal - [github](https://github.com/dotnepal/)
 * DWIT Software Club - [github](https://github.com/softwareclub)
 * GDG Birgunj - [github](https://github.com/gdgbirgunj)
-* HCOE Developers Circle - [github](https://github.com/hcoedevcircle)
 * Kathmandu Living Labs - [github](https://github.com/KathmanduLivingLabs) 
 * KEC Computer Club - [github](https://github.com/computerclubkec)
 * KEC Developers Circle - [github](https://github.com/kec-developers-circle)
